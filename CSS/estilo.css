@@ -25,6 +25,9 @@ p{
     line-height: 28px;
 
 }
+span{
+    font-weight: bold;
+}
 .secao1{
     background-color: #afddfb;
 
@@ -45,5 +48,9 @@ p{
     border-bottom: 2px solid #1d1d1d;
     text-decoration: none;
     margin: 0 10px; 
+}
+.secao2{
+    margin-top: 50px;
+    padding: 0;
 }
   
