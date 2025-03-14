@@ -16,5 +16,34 @@ section{
 img {
     max-width: 100%;
     height: auto;
-  }
+}
+p{
+    margin: 10px auto;
+    width:980px;
+    text-align: justify;
+    font-size: 18px;
+    line-height: 28px;
+
+}
+.secao1{
+    background-color: #afddfb;
+
+}
+.secao1 img{
+    width:150px;
+}
+.secao1 p{
+    
+    margin: 15px auto;
+    width: 30%;
+    text-align: center;
+
+}
+.secao1 p a{
+    font-size: 18px;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    text-decoration: none;
+    margin: 0 10px; 
+}
   
