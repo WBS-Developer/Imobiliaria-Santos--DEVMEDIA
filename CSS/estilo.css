@@ -53,4 +53,20 @@ span{
     margin-top: 50px;
     padding: 0;
 }
-  
+.secao3 h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+}
+.subtitulos{
+    color: #1c81c0;
+    text-decoration: none;
+    font-weight: normal;
+} 
+.secao3 img{
+    width: 450px;
+} 
+.texto-azul{
+    color: #1d80ca;
+    font-weight: bold;
+     
+}
