@@ -27,6 +27,7 @@ p{
 }
 span{
     font-weight: bold;
+    color: #1d80ca;
 }
 
 /*Estilizalçao em comum*/
@@ -34,6 +35,7 @@ span{
     color: #1c81c0;
     text-decoration: none;
     font-weight: normal;
+    margin-bottom: 10px;
 } 
 .subtitulos-branco{
     color: #ffffff;
@@ -107,4 +109,7 @@ span{
     line-height: 42px;
     text-align: left;
     font-size: 22px;
+}
+.secao5 img{
+    width: 450px;
 }
