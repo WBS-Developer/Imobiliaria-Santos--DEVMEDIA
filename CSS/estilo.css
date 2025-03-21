@@ -51,8 +51,6 @@ span{
   color: #fff81b;   
 }
 
-
-
 /*Estilização especifica*/
 .secao1{
     background-color: #afddfb;
@@ -112,4 +110,32 @@ span{
 }
 .secao5 img{
     width: 450px;
+}
+.secao6{
+    background-color: #1d80c1;
+}
+.secao6 p{
+    color: #ffffff;
+    background-color: #1d1d1d;
+    padding: 15px;
+    margin-top: 30px;
+}
+.secao6 h3{
+    padding-bottom: 15px;
+}
+.secao6 ul{
+    margin: 40px auto;
+    list-style:none;
+    width: 210px;
+    
+}
+.secao6 li{
+    margin-top: 15px;
+    font-size: 18px;
+}   
+.secao6 li a{
+    background-color: #ffffff;   
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
 }
